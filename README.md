@@ -1,0 +1,2 @@
+# insomnia-project
+idea plugin
